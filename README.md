@@ -21,3 +21,7 @@ The assignment explores computer fundamentals, Terminal operations, operating sy
 This project will help me understand how computers work and develop practical skills using Terminal, Python and Git.
 
 Each mission will be documented and committed separately.
+
+## My Learning
+
+Through this assignment, I have learned how computers work, explored macOS and Terminal commands, worked with files and directories, understood processes and permissions, written and executed Python programs, practiced number-system conversions, and used Git and GitHub to track my work. I also learned how branches help me make changes separately without directly affecting the main branch.
